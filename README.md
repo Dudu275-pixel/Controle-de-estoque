@@ -1,3 +1,1 @@
 
-sistema.mostrar_produtos()
-
